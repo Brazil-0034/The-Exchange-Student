@@ -4,6 +4,11 @@ Ever wondered what would happen if the Exchange Student joined your group chat?
 ## The Exchange Student
 This project simulates a conversation between you and an exchange student. I made it for fun. It uses OpenAI's GPT-3 to create a realistic and contextual conversation. You can talk to it about anything. It fooled some of my friends in its realism.
 
+<img src="https://i.postimg.cc/4yCyShrb/image.png" width="400" />
+<img src="https://i.postimg.cc/Bbh5Fp8Q/image.png" width="400" />
+<img src="https://i.postimg.cc/Qt8Wq5ZB/image.png" width="400" />
+<img src="https://i.postimg.cc/5t0XYJBv/image.png" width="400" />
+
 ## Backend
 This project uses [Discord-SCUM](https://github.com/Merubokkusu/Discord-S.C.U.M/) to simulate a user, but can easily use [Nextcord](https://github.com/nextcord/nextcord) or [Discord.JS](https://github.com/discordjs/discord.js) or any other chat API wrapper.
 
